@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "Hôm nay sinh nhật của em nhỉ?" //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "Happy birday Mai Anh !!! " //Lời mở đầu cho bức thư
 const mainContentLetter = "Chúc mừng sinh nhật em Mai nha. Tuổi mới chúc em luôn xinh đẹp mạnh khỏe năm nay sẽ là khởi đầu mới của em nên mong rằng mọi quyết định của em luôn may mắn thành công. Giờ chỉ mong em luôn vui vẻ hạnh phúc chứ cũng chả mong ở bên nữa rồi :))) nhưng thôi vẫn câu nói đó mong rằng e luôn giữ nụ cười trên môi dù có bất kỳ chuyện gì xảy ra hãy luôn nhớ rằng a vẫn luôn ủng hộ em nhé ^^" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
